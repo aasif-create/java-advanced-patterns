@@ -1,4 +1,4 @@
-public class ADVANCED_PATTERNS {
+public class AdvancedPatterns{
 public static void main(String[] args) {
         System.out.println("1.BUTTERFLY PATTERN");
         int n = 4;
